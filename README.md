@@ -1,14 +1,14 @@
-# Laboratorio 2: Página Personal en Rails
+# Lab 2: Personal Website in Rails
 
-Este repositorio contiene mi entrega para el Laboratorio 2 del curso de Tecnologías Web. 
+This repository contains my submission for Lab 2 of the Web Technologies course. 
 
-El proyecto consiste en la migración de mi página web personal (creada originalmente en el Lab 1) a una aplicación web dinámica.
+The project consists of migrating my personal website (originally created in Lab 1) into a dynamic web application.
 
-### ¿Qué incluye este proyecto?
+### What's included in this project?
 * **Framework:** Ruby on Rails.
-* **Base de Datos:** PostgreSQL.
-* **Diseño:** Estilos aplicados con Bootstrap.
-* **Contenido:** Controlador y vistas para la ruta principal (`/`) y la ruta requerida (`/about`), que muestran mi información personal, mi carrera de Ingeniería Civil Industrial en la Universidad de Los Andes, y mis habilidades.
+* **Database:** PostgreSQL.
+* **Styling:** Bootstrap.
+* **Content:** Controller and views for the root path (`/`) and the required route (`/about`), showcasing my personal information, my degree in Civil Industrial Engineering at the Universidad de Los Andes, and my skills.
 
 ---
-**Autor:** Gonzalo
+**Author:** Gonzalo
